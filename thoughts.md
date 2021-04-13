@@ -7,3 +7,7 @@
 
 * Research and explore on my own
 * Practice coding outside of hw
+
+# Shoutout!
+
+**Ozzie! for making me do something with my life!**
